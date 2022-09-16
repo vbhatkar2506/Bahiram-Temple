@@ -1,0 +1,98 @@
+/* CSS Document */
+
+body{
+margin-top:0px;
+background:#000000;
+padding:0px;
+}
+#wrapper{
+	width:900px;
+	height:1200px;
+	background:#000000;
+	margin:0px auto;
+	}
+
+#manu{
+	width:900px;
+	height:50px;
+	background:#0000CC;
+	margin-top:0px;
+	border-bottom:black solid 10px;
+	}
+#manu ul li
+	{
+	float:left;
+	padding:15px;
+	text-align:center; 
+   
+    color:#FFFFFF;
+    font-size:18px;
+    list-style: none;
+	margin:0px auto;
+    
+	
+}
+ #manu ul li:hover{
+ color:#FFFFFF;
+ background:#0033FF;
+ font-size:18px;
+ }
+#logo{
+	width:900px;
+	height:400px;
+	background:#009900;
+	
+	}
+#logo img{
+margin:0px;
+height:400px;
+width:99.96%;
+border-bottom:#000000 solid 5px;
+}
+#contain{
+width:900px;
+height:315px;
+background:#FFFFFf;
+}
+#contain1{
+width:364px;
+height:315px;
+background:#9966FF;
+float:left;
+
+}
+
+#contain2 {
+width:535px;
+height:315px;
+background:#9966FF;
+float:right;
+background-image:url(background13.png);
+}
+#heading
+{width:900px;
+	height:55px;
+	background:#0000CC;
+	margin-top:0px;
+	border-bottom:black solid 10px;
+	}
+ #footer h3{
+padding-top:20px;
+float:left;	 
+	 }
+	 #footer h2{
+	 float:right;
+	 font-family:Geneva, Arial, Helvetica, sans-serif;
+	 font-weight:300;
+	 padding-top:20px;
+	 }
+
+  p{
+	 font-family:Geneva, Arial, Helvetica, sans-serif;
+	 padding:0px;;
+	 color:#FF0000;
+	 margin:0px;
+	 font-size:30px;
+	 
+	 }
+	 
